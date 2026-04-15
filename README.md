@@ -1,16 +1,20 @@
-# 🚀 RANDOM TEST README
+version code: 39
+ravamate: 1.0.0
+release date: February 20, 2026
 
-## 📌 Overview
-This is a **random README file** created for _testing purposes only_.  
-It includes **bold**, _italic_, **_bold italic_**, and other Markdown features.
+Version updates:
 
-> 🔥 This is a blockquote for testing. Nothing important here.
+- Bug Fixes -
+*: Fixed special characters in sending transaction.
+*: Fix display for BDL all UOM
 
----
+- Improvements -
+*: Enhanced algorithm of location service.
+*: Add new check feature for location when trying to transact.
 
-## ✨ Features
-- ✅ **Bold feature text**
-- 🎯 _Italic feature text_
-- 🔥 **_Bold + Italic combined_**
-- ❌ ~~Strikethrough text~~
-- 💡 `inline code example`
+- Feature Updates -
+*: UI Auto show sync status removed.
+*: Fixed reason required for return.
+
+Uploaded by: Jay Fuego
+Updated on: February 20, 2026 - 08:50:00
